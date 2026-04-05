@@ -97,4 +97,4 @@ jupyter notebook notebooks/01_eda_and_cleaning.ipynb
 
 ## 👤 Author
 
-**Harsh Dubey** — [LinkedIn](https://www.linkedin.com/in/harsh-dubey-1b169a242) · [GitHub](https://github.com/cosmicskull711)
+**Harsh Dubey** — [LinkedIn](https://www.linkedin.com/in/harsh-dubey-1b169a242) · [GitHub](https://github.com/harshdubs)
