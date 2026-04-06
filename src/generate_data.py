@@ -12,8 +12,8 @@ SEED = 42
 rng = np.random.default_rng(SEED)
 
 MACHINES = [f"M{i:02d}" for i in range(1, 9)]  # M01 – M08
-START_DATE = pd.Timestamp("2025-10-01")
-END_DATE = pd.Timestamp("2026-03-31")
+START_DATE = pd.Timestamp("2025-01-01")
+END_DATE = pd.Timestamp("2025-06-30")
 SHIFTS = ["Day", "Night"]
 
 DOWNTIME_REASONS = [
